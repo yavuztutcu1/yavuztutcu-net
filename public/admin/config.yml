@@ -2,6 +2,7 @@ backend:
   name: github
   repo: yavuztutcu1/yavuztutcu-net
   branch: main
+  auth_type: implicit
 
 publish_mode: editorial_workflow
 
