@@ -2,6 +2,8 @@ backend:
   name: github
   repo: yavuztutcu1/yavuztutcu-net
   branch: main
+  base_url: https://yavuztutcu-net.pages.dev
+  auth_endpoint: auth
 
 publish_mode: editorial_workflow
 
