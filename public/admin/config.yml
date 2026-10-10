@@ -2,8 +2,8 @@ backend:
   name: github
   repo: yavuztutcu1/yavuztutcu-net
   branch: main
-  base_url: https://yavuztutcu-net.pages.dev
-  auth_endpoint: auth
+  base_url: https://decap-bridge.vercel.app
+  auth_endpoint: /api/auth
 
 publish_mode: editorial_workflow
 
